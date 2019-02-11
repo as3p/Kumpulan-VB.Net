@@ -7,3 +7,12 @@ E:\Project VB Net\Random_IPAddres\Random_IPAddres\obj\x86\Debug\Random_IPAddres.
 E:\Project VB Net\Random_IPAddres\Random_IPAddres\obj\x86\Debug\Random_IPAddres.exe
 E:\Project VB Net\Random_IPAddres\Random_IPAddres\obj\x86\Debug\Random_IPAddres.xml
 E:\Project VB Net\Random_IPAddres\Random_IPAddres\obj\x86\Debug\Random_IPAddres.pdb
+E:\Kumpulan Project VB Net\Random_IPAddres\Random_IPAddres\obj\x86\Debug\Random_IPAddres.exe
+E:\Kumpulan Project VB Net\Random_IPAddres\Random_IPAddres\obj\x86\Debug\Random_IPAddres.xml
+E:\Kumpulan Project VB Net\Random_IPAddres\Random_IPAddres\obj\x86\Debug\Random_IPAddres.pdb
+E:\Kumpulan Project VB Net\Random_IPAddres\Random_IPAddres\bin\Debug\Random_IPAddres.exe
+E:\Kumpulan Project VB Net\Random_IPAddres\Random_IPAddres\bin\Debug\Random_IPAddres.pdb
+E:\Kumpulan Project VB Net\Random_IPAddres\Random_IPAddres\bin\Debug\Random_IPAddres.xml
+E:\Kumpulan Project VB Net\Random_IPAddres\Random_IPAddres\obj\x86\Debug\Random_IPAddres.Form1.resources
+E:\Kumpulan Project VB Net\Random_IPAddres\Random_IPAddres\obj\x86\Debug\Random_IPAddres.Resources.resources
+E:\Kumpulan Project VB Net\Random_IPAddres\Random_IPAddres\obj\x86\Debug\Random_IPAddres.vbproj.GenerateResource.Cache

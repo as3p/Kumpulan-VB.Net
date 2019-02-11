@@ -90,6 +90,7 @@ Partial Class Form1
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Button1)
+        Me.MaximizeBox = False
         Me.MaximumSize = New System.Drawing.Size(300, 300)
         Me.MinimumSize = New System.Drawing.Size(300, 300)
         Me.Name = "Form1"

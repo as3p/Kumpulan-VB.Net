@@ -36,6 +36,8 @@ Partial Class Form1
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Button5 = New System.Windows.Forms.Button()
+        Me.Button6 = New System.Windows.Forms.Button()
+        Me.RichTextBox3 = New System.Windows.Forms.RichTextBox()
         Me.SuspendLayout()
         '
         'Button1
@@ -116,9 +118,9 @@ Partial Class Form1
         '
         'RichTextBox2
         '
-        Me.RichTextBox2.Location = New System.Drawing.Point(312, 32)
+        Me.RichTextBox2.Location = New System.Drawing.Point(312, 35)
         Me.RichTextBox2.Name = "RichTextBox2"
-        Me.RichTextBox2.Size = New System.Drawing.Size(322, 96)
+        Me.RichTextBox2.Size = New System.Drawing.Size(223, 93)
         Me.RichTextBox2.TabIndex = 8
         Me.RichTextBox2.Text = ""
         '
@@ -156,11 +158,30 @@ Partial Class Form1
         Me.Button5.Text = "GET"
         Me.Button5.UseVisualStyleBackColor = True
         '
+        'Button6
+        '
+        Me.Button6.Location = New System.Drawing.Point(12, 207)
+        Me.Button6.Name = "Button6"
+        Me.Button6.Size = New System.Drawing.Size(523, 23)
+        Me.Button6.TabIndex = 13
+        Me.Button6.Text = "API    themoviedb"
+        Me.Button6.UseVisualStyleBackColor = True
+        '
+        'RichTextBox3
+        '
+        Me.RichTextBox3.Location = New System.Drawing.Point(12, 236)
+        Me.RichTextBox3.Name = "RichTextBox3"
+        Me.RichTextBox3.Size = New System.Drawing.Size(524, 83)
+        Me.RichTextBox3.TabIndex = 14
+        Me.RichTextBox3.Text = ""
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(646, 204)
+        Me.ClientSize = New System.Drawing.Size(548, 331)
+        Me.Controls.Add(Me.RichTextBox3)
+        Me.Controls.Add(Me.Button6)
         Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
@@ -196,5 +217,7 @@ Partial Class Form1
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents Button5 As System.Windows.Forms.Button
+    Friend WithEvents Button6 As System.Windows.Forms.Button
+    Friend WithEvents RichTextBox3 As System.Windows.Forms.RichTextBox
 
 End Class

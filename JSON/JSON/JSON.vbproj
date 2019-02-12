@@ -49,6 +49,9 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FastColoredTextBox">
+      <HintPath>..\..\..\Source\Pemrograman\Visual Studio .NET\Theme Visual Studio NET\Theme\t3-visual-basicnet-theme-archive-sajjad-altahan\T3 VB.NET Theme Archive 1.7.0\FastColoredTextBox.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>net40\Newtonsoft.Json.dll</HintPath>
     </Reference>

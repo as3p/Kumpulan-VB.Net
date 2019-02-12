@@ -11,3 +11,4 @@ E:\Kumpulan Project VB Net\JSON\JSON\obj\x86\Debug\JSON.vbproj.GenerateResource.
 E:\Kumpulan Project VB Net\JSON\JSON\obj\x86\Debug\JSON.exe
 E:\Kumpulan Project VB Net\JSON\JSON\obj\x86\Debug\JSON.xml
 E:\Kumpulan Project VB Net\JSON\JSON\obj\x86\Debug\JSON.pdb
+E:\Kumpulan Project VB Net\JSON\JSON\bin\Debug\FastColoredTextBox.dll

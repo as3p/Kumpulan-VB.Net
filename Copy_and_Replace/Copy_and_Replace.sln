@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Copy_and_Replace", "Copy_and_Replace\Copy_and_Replace.vbproj", "{08FE7B22-7DC7-43D2-A80F-085571C3FD11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08FE7B22-7DC7-43D2-A80F-085571C3FD11}.Debug|x86.ActiveCfg = Debug|x86
+		{08FE7B22-7DC7-43D2-A80F-085571C3FD11}.Debug|x86.Build.0 = Debug|x86
+		{08FE7B22-7DC7-43D2-A80F-085571C3FD11}.Release|x86.ActiveCfg = Release|x86
+		{08FE7B22-7DC7-43D2-A80F-085571C3FD11}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -38,7 +38,7 @@ Public Class Form1
 
         smtpSrv.Credentials = New Net.NetworkCredential(pengirim, password)
         smtpSrv.Port = 587
-        smtpSrv.Host = "smtp.gmail.com"
+        smtpSrv.Host = "mail.mugilaris.web.id"
         smtpSrv.EnableSsl = True
         mail.From = New MailAddress(pengirim, NamaPengirim)
         mail.To.Add(penerima)

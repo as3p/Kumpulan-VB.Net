@@ -40,13 +40,15 @@ Public Class Form1
 
     Private Sub Button6_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button6.Click
         'Address of URL
-        Dim URL As String = "https://api.themoviedb.org/3/search/movie?api_key=293dc4ce4df06b15d37a7f0c1d13f716&language=en-US&query=venom"
+        Dim api_key As String = "293dc4ce4df06b15d37a7f0c1d13f716"
+        Dim queri As String = "venom"
+        Dim URL As String = "https://api.themoviedb.org/3/search/movie?api_key=" & api_key & "&language=en-US&query=" & queri
         ' Get HTML data
         Dim client As WebClient = New WebClient()
         Dim data As Stream = client.OpenRead(URL)
         Dim reader As StreamReader = New StreamReader(data)
         Dim str As String = ""
-        str = reader.ReadLine()
+        str = reader.ReadLine
         RichTextBox3.Text = str
     End Sub
 End Class

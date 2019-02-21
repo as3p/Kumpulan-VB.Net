@@ -1,25 +1,20 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.421
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Base64", "Base64\Base64.vbproj", "{BE28F4EA-EDDF-4957-9E6C-9A24519850C0}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Base64", "Base64\Base64.vbproj", "{3DEA8BA4-6C28-4D8D-866B-0DB1F98BF810}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BE28F4EA-EDDF-4957-9E6C-9A24519850C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BE28F4EA-EDDF-4957-9E6C-9A24519850C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BE28F4EA-EDDF-4957-9E6C-9A24519850C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BE28F4EA-EDDF-4957-9E6C-9A24519850C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEA8BA4-6C28-4D8D-866B-0DB1F98BF810}.Debug|x86.ActiveCfg = Debug|x86
+		{3DEA8BA4-6C28-4D8D-866B-0DB1F98BF810}.Debug|x86.Build.0 = Debug|x86
+		{3DEA8BA4-6C28-4D8D-866B-0DB1F98BF810}.Release|x86.ActiveCfg = Release|x86
+		{3DEA8BA4-6C28-4D8D-866B-0DB1F98BF810}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B149E356-0129-4CA6-88A7-566409A157F8}
 	EndGlobalSection
 EndGlobal

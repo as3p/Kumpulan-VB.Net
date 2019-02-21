@@ -50,7 +50,7 @@ Partial Class Form1
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(178, 23)
         Me.TextBox1.TabIndex = 0
-        Me.TextBox1.Text = "mau.tau.saya@gmail.com"
+        Me.TextBox1.Text = "admin@mugilaris.web.id"
         '
         'TextBox2
         '

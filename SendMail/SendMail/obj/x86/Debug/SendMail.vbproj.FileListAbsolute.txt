@@ -7,3 +7,5 @@ E:\Kumpulan Project VB Net\SendMail\SendMail\obj\x86\Debug\SendMail.vbproj.Gener
 E:\Kumpulan Project VB Net\SendMail\SendMail\obj\x86\Debug\SendMail.exe
 E:\Kumpulan Project VB Net\SendMail\SendMail\obj\x86\Debug\SendMail.xml
 E:\Kumpulan Project VB Net\SendMail\SendMail\obj\x86\Debug\SendMail.pdb
+E:\Kumpulan Project VB Net\SendMail\SendMail\obj\x86\Debug\SendMail.vbprojAssemblyReference.cache
+E:\Kumpulan Project VB Net\SendMail\SendMail\obj\x86\Debug\SendMail.vbproj.CoreCompileInputs.cache
